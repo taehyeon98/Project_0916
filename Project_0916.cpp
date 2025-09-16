@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "안녕하세요.\n";
+    std::cout << "오늘은 9월16일 입니다.\n";
 }
